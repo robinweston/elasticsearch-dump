@@ -28,6 +28,7 @@ var defaults = {
   timeout:         null,
   skip:            null,
   toLog:           null,
+  outputValidJson:  false,
 };
 
 var options = {};
